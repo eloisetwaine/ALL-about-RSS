@@ -2,41 +2,361 @@
 
 _以下条目已连续 3 周期失效，请人工确认后再在 master 分支 cross out。_
 
-_生成于: 2026-09-01_
+_生成于: 2026-09-15_
 
+- [ ] Winds | https://getstream.io/winds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//getstream.io/winds/%22
+- [ ] NewsBlur | https://newsblur.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsblur.com/%22
+- [ ] Bloglovin’ | https://www.bloglovin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.bloglovin.com/%22
+- [ ] Fraidycat | https://fraidyc.at/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//fraidyc.at/%22
+- [ ] irreader | http://irreader.fatecore.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//irreader.fatecore.com/%22
+- [ ] Inoreader | https://www.inoreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/%22
 - [ ] Feedbin | https://feedbin.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
-- [ ] DuckDuckGo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
+- [ ] RSS2JSONFeed converter | https://rss2json.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss2json.com%22
 - [ ] USEPANDA | https://usepanda.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//usepanda.com/%22
+- [ ] RSS feed to JSON API | https://rss-to-json-serverless-api.vercel.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-to-json-serverless-api.vercel.app/%22
+- [ ] Feedly | https://feedly.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedly.com%22
+- [ ] Feedbro | https://nodetics.com/feedbro/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nodetics.com/feedbro/%22
+- [ ] Flipboard | https://flipboard.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flipboard.com/%22
+- [ ] ~~快知~~ | http://kzfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
+- [ ] 深蓝阅读 bluereader | https://bluereader.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//bluereader.org/%22
+- [ ] Feed Wrangler | https://feedwrangler.net/welcome.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedwrangler.net/welcome.html%22
+- [ ] FeedIt | https://feedit.sk/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedit.sk/%22
+- [ ] Newsfeeder | https://newsfeeder.esstudio.site/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsfeeder.esstudio.site/%22
+- [ ] Readian News | https://readian.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//readian.io/%22
+- [ ] Pluma RSS Reader | https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/%22
+- [ ] LinkLonk | https://linklonk.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//linklonk.com/%22
+- [ ] Substack Reader | https://substack.com/inbox
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//substack.com/inbox%22
+- [ ] RSS Brain | https://rssbrain.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbrain.com/%22
+- [ ] ReadWise Reader | https://readwise.io/read
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//readwise.io/read%22
+- [ ] Fiper | https://www.fiper.net/en/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.fiper.net/en/%22
+- [ ] Follow | https://follow.is/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.is/%22
+- [ ] Reabble | https://reabble.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reabble.com/%22
+- [ ] Winds | https://getstream.io/winds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//getstream.io/winds/%22
+- [ ] RSSANT 蚁阅 | https://rss.anyant.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.anyant.com/%22
+- [ ] RSSGROUND | https://www.rssground.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssground.com/%22
+- [ ] Inoreader | https://www.inoreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/%22
+- [ ] Feedbin | https://feedbin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
+- [ ] Feedly | https://feedly.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedly.com%22
+- [ ] USEPANDA | https://usepanda.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//usepanda.com/%22
+- [ ] elink | https://elink.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
+- [ ] Bloglovin’ | https://www.bloglovin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.bloglovin.com/%22
+- [ ] Flipboard | https://flipboard.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flipboard.com/%22
+- [ ] Feedspot | https://www.feedspot.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
+- [ ] Newspipe | https://www.newspipe.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.newspipe.org/%22
+- [ ] CommaFeed | https://www.commafeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.commafeed.com/%22
+- [ ] 深蓝阅读 bluereader | https://bluereader.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//bluereader.org/%22
+- [ ] ~~FeedFox~~ | https://feedfox.netlify.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedfox.netlify.app/%22
+- [ ] Feedsubs | https://feedsubs.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedsubs.com/%22
+- [ ] ProgRSSive | https://progrssive.now.sh/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//progrssive.now.sh/%22
+- [ ] Feed Wrangler | https://feedwrangler.net/welcome.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedwrangler.net/welcome.html%22
+- [ ] Follow.it | https://follow.it/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.it/%22
+- [ ] FeedIt | https://feedit.sk/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedit.sk/%22
+- [ ] Substack Reader | https://substack.com/inbox
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//substack.com/inbox%22
+- [ ] Readian News | https://readian.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//readian.io/%22
+- [ ] Outlooker | https://reader.brokendreams.cloud
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reader.brokendreams.cloud%22
+- [ ] LinkLonk | https://linklonk.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//linklonk.com/%22
+- [ ] RSS Brain | https://rssbrain.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbrain.com/%22
+- [ ] ReadWise Reader | https://readwise.io/read
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//readwise.io/read%22
+- [ ] FeedDeck | https://feeddeck.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeddeck.app/%22
+- [ ] Feeds Fun | https://feeds.fun/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeds.fun/%22
+- [ ] Refeed | https://refeedreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//refeedreader.com/%22
+- [ ] Fiper | https://www.fiper.net/en/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.fiper.net/en/%22
+- [ ] Follow | https://follow.is/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.is/%22
+- [ ] Newsfeeder | https://newsfeeder.esstudio.site/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsfeeder.esstudio.site/%22
+- [ ] RSSANT 蚁阅 | https://rss.anyant.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.anyant.com/%22
+- [ ] Newspipe | https://www.newspipe.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.newspipe.org/%22
+- [ ] CommaFeed | https://www.commafeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.commafeed.com/%22
+- [ ] NewsBlur | https://newsblur.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//newsblur.com/%22
+- [ ] Feedbin | https://feedbin.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedbin.com/%22
+- [ ] FeedFox | https://feedfox.netlify.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedfox.netlify.app/%22
+- [ ] Feedsubs | https://feedsubs.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedsubs.com/%22
+- [ ] ProgRSSive | https://progrssive.now.sh/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//progrssive.now.sh/%22
+- [ ] Outlooker | https://reader.brokendreams.cloud
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reader.brokendreams.cloud%22
+- [ ] FeedDeck | https://feeddeck.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeddeck.app/%22
+- [ ] Feeds Fun | https://feeds.fun/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feeds.fun/%22
+- [ ] Refeed | https://refeedreader.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//refeedreader.com/%22
+- [ ] Yahoo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
+- [ ] DuckDuckGo | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
+- [ ] Hey World | https://hey.com/world/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//hey.com/world/%22
+- [ ] Bing | https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/%22
+- [ ] The Top 125 RSS Open Source Projects | https://awesomeopensource.com/projects/rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//awesomeopensource.com/projects/rss%22
+- [ ] RSS 项目: a WorkFlowy list | https://workflowy.com/#/6e20a3531287
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//workflowy.com/%23/6e20a3531287%22
+- [ ] RSS指南 | https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d%22
+- [ ] RSS 工具大全 by 幻璧 | https://blog.wizos.me/20180412-134.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.wizos.me/20180412-134.html%22
+- [ ] Feed Readers @ Awesome-Selfhosted | https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/awesome-selfhosted/awesome-selfhosted%23feed-readers%22
+- [ ] miniflux-theme-reeder | https://github.com/rootknight/Miniflux-Theme-Reeder
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rootknight/Miniflux-Theme-Reeder%22
+- [ ] Reeder like theme | https://github.com/rootknight/Miniflux-Theme-Reeder
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/rootknight/Miniflux-Theme-Reeder%22
+- [ ] @birb@rss-parrot.net | https://rss-parrot.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-parrot.net/%22
+- [ ] SearQ | https://searq.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//searq.org/%22
+- [ ] Platypush | https://platypush.readthedocs.io/en/latest/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//platypush.readthedocs.io/en/latest/%22
+- [ ] Power Automate | https://flow.microsoft.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flow.microsoft.com/%22
+- [ ] RSSGROUND | https://www.rssground.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssground.com/%22
+- [ ] USEPANDA | https://usepanda.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//usepanda.com/%22
+- [ ] elink | https://elink.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
+- [ ] Fraidycat | https://fraidyc.at/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//fraidyc.at/%22
+- [ ] Feedspot | https://www.feedspot.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
+- [ ] Castbee | https://castbee.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//castbee.net/%22
+- [ ] Huginn | https://github.com/huginn/huginn
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
+- [ ] granary | https://granary.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//granary.io/%22
+- [ ] FetchRSS | http://fetchrss.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//fetchrss.com/%22
 - [ ] Inoreader | https://www.inoreader.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.inoreader.com/%22
 - [ ] Notifier | https://notifier.in/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
-- [ ] elink | https://elink.io/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
+- [ ] Typefully Profiles | https://typefully.com/profile
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//typefully.com/profile%22
+- [ ] Notifier | https://notifier.in/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
+- [ ] FetchRSS | http://fetchrss.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//fetchrss.com/%22
+- [ ] Notifier | https://notifier.in/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//notifier.in/%22
+- [ ] RSSHub Radar | https://diygod.me/rsshub-radar/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//diygod.me/rsshub-radar/%22
 - [ ] Huginn | https://github.com/huginn/huginn
     - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
+- [ ] GetRSSfeed | http://getrssfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//getrssfeed.com/%22
+- [ ] 快知 | http://kzfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//kzfeed.com/%22
+- [ ] GetRSSfeed | http://getrssfeed.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//getrssfeed.com/%22
+- [ ] RSS屋 | https://rss.mifaw.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.mifaw.com/%22
+- [ ] rss.lilydjwg.me | https://rss.lilydjwg.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
+- [ ] rss.lilydjwg.me | https://rss.lilydjwg.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
+- [ ] EchoFeed | https://echofeed.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
+- [ ] Reabble | https://reabble.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//reabble.com/%22
+- [ ] Platypush | https://platypush.readthedocs.io/en/latest/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//platypush.readthedocs.io/en/latest/%22
+- [ ] SyncReads | https://www.syncreads.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.syncreads.com/%22
+- [ ] Power Automate | https://flow.microsoft.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//flow.microsoft.com/%22
+- [ ] RSSbyEmail | https://rssby.email/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssby.email/%22
+- [ ] elink | https://elink.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
+- [ ] RSSbyEmail | https://rssby.email/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssby.email/%22
+- [ ] Feedio | https://feedio.co
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedio.co%22
+- [ ] dlvr.it | https://dlvrit.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//dlvrit.com%22
+- [ ] SyncReads | https://www.syncreads.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.syncreads.com/%22
+- [ ] dlvr.it | https://dlvrit.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//dlvrit.com%22
+- [ ] Pluma RSS Reader | https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/%22
+- [ ] Feedzy RSS Feeds for WordPress | https://themeisle.com/plugins/feedzy-rss-feeds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//themeisle.com/plugins/feedzy-rss-feeds/%22
 - [ ] RSSGROUND | https://www.rssground.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.rssground.com/%22
 - [ ] elink | https://elink.io/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//elink.io/%22
 - [ ] Feedspot | https://www.feedspot.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
+- [ ] Huginn | https://github.com/huginn/huginn
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/huginn/huginn%22
 - [ ] EchoFeed | https://echofeed.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
 - [ ] EchoFeed | https://echofeed.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
+- [ ] FeedMe | https://github.com/seazon/FeedMe/blob/master/README.md
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/seazon/FeedMe/blob/master/README.md%22
+- [ ] RSS Parrot | https://rss-parrot.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-parrot.net/%22
 - [ ] EchoFeed | https://echofeed.app/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
-- [ ] Subscribe ZhihuZhuanlan | https://rss.lilydjwg.me/
-    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
+- [ ] EchoFeed | https://echofeed.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//echofeed.app/%22
+- [ ] POD GENIE | https://pod-genie.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//pod-genie.com/%22
+- [ ] RSS屋 | https://rss.mifaw.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.mifaw.com/%22
+- [ ] Pipfeed news extract API | https://pipfeed.com/news-extract-api/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//pipfeed.com/news-extract-api/%22
+- [ ] FeedPress | https://feed.press/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.press/%22
+- [ ] Feedio | https://feedio.co
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedio.co%22
+- [ ] Follow.it | https://follow.it/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//follow.it/%22
+- [ ] Feedzy RSS Feeds for WordPress | https://themeisle.com/plugins/feedzy-rss-feeds/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//themeisle.com/plugins/feedzy-rss-feeds/%22
+- [ ] Feed Filter Maker | https://feed.janicek.co/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.janicek.co/%22
+- [ ] Feed Filter Maker | https://feed.janicek.co/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.janicek.co/%22
+- [ ] RSSBox | https://rssbox.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbox.app/%22
+- [ ] RSSHub Radar | https://diygod.me/rsshub-radar/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//diygod.me/rsshub-radar/%22
+- [ ] Feedsearch | https://feedsearch.dev/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedsearch.dev/%22
+- [ ] Feedbro | https://nodetics.com/feedbro/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//nodetics.com/feedbro/%22
+- [ ] Thirdplace Discovery | https://discovery.thirdplace.no/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//discovery.thirdplace.no/%22
 - [ ] Subscribe V2EX post comments | https://rss.lilydjwg.me/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
+- [ ] Subscribe ZhihuZhuanlan | https://rss.lilydjwg.me/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.lilydjwg.me/%22
+- [ ] Feedsearch | https://feedsearch.dev/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feedsearch.dev/%22
+- [ ] granary | https://granary.io/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//granary.io/%22
+- [ ] Pipfeed news extract API | https://pipfeed.com/news-extract-api/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//pipfeed.com/news-extract-api/%22
+- [ ] RSS2JSONFeed converter | https://rss2json.com
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss2json.com%22
+- [ ] RSS feed to JSON API | https://rss-to-json-serverless-api.vercel.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rss-to-json-serverless-api.vercel.app/%22
+- [ ] SearQ | https://searq.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//searq.org/%22
+- [ ] Thirdplace Discovery: Feed discovery HTML JSON API | https://discovery.thirdplace.no/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//discovery.thirdplace.no/%22
+- [ ] Solo / Pipe at B3log | https://b3log.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//b3log.org/%22
+- [ ] Halo | https://b3log.org/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//b3log.org/%22
+- [ ] Typefully Profiles | https://typefully.com/profile
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//typefully.com/profile%22
+- [ ] Hey World | https://hey.com/world/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//hey.com/world/%22
 - [ ] Feedspot | https://www.feedspot.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//www.feedspot.com/%22
+- [ ] irreader | http://irreader.fatecore.com/
+    - 搜索URL: https://www.google.com/search?q=%22http%3A//irreader.fatecore.com/%22
 - [ ] RSSANT 蚁阅 | https://rss.anyant.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.anyant.com/%22
+- [ ] KKBOX podcast | https://podcast.kkbox.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/%22
+- [ ] Listen Notes | https://www.listennotes.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.listennotes.com/%22
+- [ ] POD GINIE | https://pod-genie.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//pod-genie.com/%22
+- [ ] FeedPress | https://feed.press/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//feed.press/%22
+- [ ] Listen Notes | https://www.listennotes.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//www.listennotes.com/%22
+- [ ] KKBOX podcast | https://podcast.kkbox.com/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//podcast.kkbox.com/%22
+- [ ] The Top 125 RSS Open Source Projects | https://awesomeopensource.com/projects/rss
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//awesomeopensource.com/projects/rss%22
+- [ ] RSS 工具大全 by 幻璧 | https://blog.wizos.me/20180412-134.html
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//blog.wizos.me/20180412-134.html%22
+- [ ] RSS 项目: a WorkFlowy list | https://workflowy.com/#/6e20a3531287
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//workflowy.com/%23/6e20a3531287%22
+- [ ] RSS指南 | https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d%22
+- [ ] FeedMe | https://github.com/seazon/FeedMe/blob/master/README.md
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/seazon/FeedMe/blob/master/README.md%22
+- [ ] Castbee | https://castbee.net/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//castbee.net/%22
 - [ ] 蚁阅 anyant | https://rss.anyant.com/
     - 搜索URL: https://www.google.com/search?q=%22https%3A//rss.anyant.com/%22
+- [ ] RSSBox | https://rssbox.app/
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//rssbox.app/%22
+- [ ] Feed Readers @ Awesome-Selfhosted | https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
+    - 搜索URL: https://www.google.com/search?q=%22https%3A//github.com/awesome-selfhosted/awesome-selfhosted%23feed-readers%22
